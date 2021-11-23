@@ -1,5 +1,4 @@
-
-<img src="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/121580927_784341332388016_7997739347881107713_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGCvX9lALoBkbo7AzBGTI86pDcUlZPc0NmkNxSVk9zQ2dQIlR8-i3Q9iwtpZJVqim6d6H5RDlJZv9Xq_3C9dmTD&_nc_ohc=x2oEjTI_HVoAX_DRLs6&_nc_ht=scontent.fdac116-1.fna&oh=be88fa3ceda0cb8e68cb2aec22f510fe&oe=61C11A38" alt="Girl in a jacket" width="50%" height="400"><h1 align="center">Hi,I am Mujahid MD Mujahid</h1>
+<h1 align="center">Hi,I am Mujahid MD Mujahid</h1>
 <h3 align="center">I am passionate Web Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahid521&label=Profile%20views&color=0e75b6&style=flat" alt="mujahid521" /> </p>
